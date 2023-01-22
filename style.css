@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d6e6ff;
+}
+#projects {
+  background-color: #d6e6ff;
+}
+section {
+  padding-top: 5rem;
+}
+.nav-item a:hover {
+  text-decoration: underline;
+}
